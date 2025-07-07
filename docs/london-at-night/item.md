@@ -1,8 +1,8 @@
-![City at night](unsplash-london-night.jpg ":class=header-tall-image-full-width :no-zoom")
-
-[←Home](home.md)
+![City at night](unsplash-london-night.jpg ":class=header-tall-image-full-width-header-overlay :no-zoom")
 
 # London at Night
+
+[←Home](home.md)
 
 <small>7th Jun 2017</small>
 
